@@ -1,4 +1,4 @@
-# iOSPriSec
+[iOSPriSec]: https://cdn.rawgit.com/harleo/assets-repo/bc7108e1/iOSPriSec/iosprisec_github_repo_logo_2x.jpg "iOSPriSec"
 
 📱 Useful tips on how to maximize and balance security and privacy on iOS  
 
@@ -154,7 +154,7 @@ If you wish to use a search engine that respects your privacy, please use DuckDu
 
 ## Closing
 Congratulations, you made it!
-This should conclude this guide on how to take the necessary steps in order to improve security any privacy of your iOS device.
+This should conclude this guide on how to take the necessary steps in order to improve security and privacy of your iOS device.
 
 If you would like to help family or friends, share this guide!
 
