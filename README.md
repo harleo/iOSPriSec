@@ -1,4 +1,4 @@
-[iOSPriSec]: https://cdn.rawgit.com/harleo/assets-repo/bc7108e1/iOSPriSec/iosprisec_github_repo_logo_2x.jpg "iOSPriSec"
+![iOSPriSec](https://cdn.rawgit.com/harleo/assets-repo/5f922f40/iOSPriSec/iosprisec_github_repo_logo.svg)  
 
 📱 Useful tips on how to maximize and balance security and privacy on iOS  
 
