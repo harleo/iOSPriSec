@@ -44,7 +44,7 @@ Nowadays words like privacy and security have been getting more relevant as ever
 
 Your device (and third parties) you use generate a large digital footprint every day, which you might not even know about. I believe that data should be yours.
 
-Being naturally curious I've been tweaking settings on essentially every device I own. While I've been doing this for years for family and friends, I was under the assumption that everybody else was doing this. But I was wrong. The problem that I've been observing is that most of the people don't even give a second thought about going into the settings, they just want to use the device. What is is shocking, is that even people in computer science related fields are subject to not tweaking settings while they should be doing it.
+Being naturally curious I've been tweaking settings on essentially every device I own. While I've been doing this for years for family and friends, I was under the assumption that everybody else was doing this. But I was wrong. The problem that I've been observing is that most of the people don't even give a second thought about going into the settings, they just want to use the device. What is shocking, is that even people in computer science related fields are subject to not tweaking settings while they should be doing it.
 
 So I decided to do a short writeup to help you take the necessary steps on iOS (as much as you can do on a 'frontend level').
 
@@ -95,14 +95,14 @@ Currently Face ID is only available on the iPhone X. If you use Face ID in the f
 Depending on if you intend to use Siri, there are certain things to look out for. For example 'Allow Siri When Locked' will make Siri accessible by someone else while you're not around. Siri will perform certain tasks, such as send messages on your behalf, create calendar entries or set timers (more on this in section 5.).
 
 #### 5. Touch ID/Face ID & Passcode
-This is another controversial topic. Should you use Touch ID/Face ID for the sake of convenience or a strong alphanumerical passcode. Again, this is up to you. But note that in an event of a violent act towards you, it will be easier to get into your device by a simple touch or face unlock than providing a passcode. Also in the event of you travelling to the U.S., cases have shown that a border patrol officer is allowed to demand that you unlock your device by Touch ID but not by passcode. If you want to read more about this topic, here is an excellent in-depth guide by the Electronic Frontier Foundation: [https://www.eff.org/wp/digital-privacy-us-border-2017](https://www.eff.org/wp/digital-privacy-us-border-2017).
+This is another controversial topic. Should you use Touch ID/Face ID for the sake of convenience or a strong alphanumerical passcode? Again, this is up to you. But note that in an event of a violent act towards you, it will be easier to get into your device by a simple touch or face unlock than providing a passcode. Also in the event of you travelling to the U.S., cases have shown that a border patrol officer is allowed to demand that you unlock your device by Touch ID but not by passcode. If you want to read more about this topic, here is an excellent in-depth guide by the Electronic Frontier Foundation: [https://www.eff.org/wp/digital-privacy-us-border-2017](https://www.eff.org/wp/digital-privacy-us-border-2017).
 
 Under the 'ALLOW ACCESS WHEN LOCKED' section you can fine tune things to your liking, ideally as few accessible features as possible.
 
 There is a rather interesting setting all the way at the bottom. If you or someone else fails to unlock your device after 10 tries, it will wipe completely. Now the implication should be that the time between you interacting with your device one time and another time should be less than an hour. This is because if someone were to fail to attempt to unlock your device 9 times, a delay between unlocking attempts will be added up, and with 9 tries this delay is an hour. Depending on how sensitive the data on your device is, you would want to take the appropriate choice.
 
 #### 6. Emergency SOS
-Introduced in iOS 11, a feature in an event of an emergency where if you were to hold the lock button and one of the volume buttons long enough, emergency services will be called from your device. While this feature has saved numerous lives since its introduction it is important to know that this includes Medical ID, a feature you can enable if you wish to do so. Medical ID is a feature where someone can look at basic information such as name, weight, height, emergency contacts (you can curate them) etc. while your device is locked. This is intended for instances where a medical professional can quickly gain information about you, should you be unable to communicate.
+Introduced in iOS 11, a feature in an event of an emergency where if you were to hold the lock button and one of the volume buttons long enough, emergency services will be called from your device. While this feature has saved numerous lives since its introduction it is important to know that this includes Medical ID, a feature you can enable if you wish to do so. Medical ID is a feature where someone can look at basic information such as name, weight, height, emergency contacts (you can curate them) etc. while your device is locked. This is intended for instances where a medical professional can quickly gain information about you on-site, should you be unable to communicate.
 
 #### 7. Privacy
 ##### 7.1 Location Services
@@ -141,7 +141,7 @@ This section will only apply to you if you actively use Safari as your iOS brows
 
 Disable 'Search Engine Suggestions', 'Safari Suggestions', and 'Preload Top Hit'. Those settings will be either synced (end-to-end encrypted) with your other Apple devices, or anonymized and send to Apple for analysis. See the highlighted link in that section, if you want to read more.
 
-Enable 'Block Pop-ups'
+Enable 'Block Pop-ups'.
 
 Under section 'PRIVACY & SECURITY' enable 'Prevent Cross-Site Tracking', 'Block All Cookies', 'Ask Websites Not To Track Me' and 'Fraudulent Website Warning'. Note that blocking cookies might restrict some features on websites. Continuing disable 'Camera & Microphone Access' and 'Check for Apple Pay'.
 
