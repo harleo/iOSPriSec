@@ -4,7 +4,7 @@
 
 ## Preface
 
-This guide will focus on the security and privacy aspects of the iOS platform. While Apple takes great interest in those aspects for both, their devices and its customers, it is important to go through additional steps because Apple gives you a great amount of settings.
+This guide will focus on the security and privacy aspects of the iOS platform. While Apple takes great interest in those aspects for both, their devices and its customers, it is important to go through additional steps because Apple gives you a great amount of options.
 
 For more information on how Apple handles security and privacy, visit:
 [https://www.apple.com/business/docs/iOS_Security_Guide.pdf](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)  
@@ -40,19 +40,19 @@ For more information on how Apple handles security and privacy, visit:
   9.1 Search Engine  
 
 #### 1. Introduction
-Nowadays words like privacy and security have been getting more relevant as ever before. This means that taking additional steps on how your device interacts and handles data with third parties is very important.
+Nowadays words like privacy and security have been getting more relevant as ever before. This means that taking additional steps on how your devices interact and handle data with third parties is very important.
 
-Your device (and third parties) you use generate a large digital footprint every day, which you might not even know about. I believe that data should be yours.
+The devices—and third parties—you use, generate a large digital footprint of you every day, which you might be unaware of. Since that data belongs to you, I believe it should be yours.
 
 Being naturally curious I've been tweaking settings on essentially every device I own. While I've been doing this for years for family and friends, I was under the assumption that everybody else was doing this. But I was wrong. The problem that I've been observing is that most of the people don't even give a second thought about going into the settings, they just want to use the device. What is shocking, is that even people in computer science related fields are subject to not tweaking settings while they should be doing it.
 
-So I decided to do a short writeup to help you take the necessary steps on iOS (as much as you can do on a 'frontend level').
+So I decided to do a short writeup to help you take the necessary steps on iOS (as much as you can do with the options that are provided).
 
 #### 2. Apple ID
-When opening the settings app on iOS, you should see your name associated with the Apple ID of your device at the very top of the list. Tap on it and you should also see the email associated with it, as well as a vide variety of settings regarding your account.
+When opening the settings app on iOS, you should see your name associated with the Apple ID of your device at the very top of the list. Tap on it and you should also see the email associated with it, as well as a wide variety of options regarding your account.
 
 ##### 2.1 Name, Phone Numbers, Email
-Choosing whether to put your real or fake name here is a controversial topic in of itself. If you happen to use any additional Apple services connected to this Apple ID, your name will obviously be associated with it.
+Choosing whether to put your real or fake name here is a controversial topic in of itself. If you happen to use any additional Apple services connected to this Apple ID, your name will obviously be associated with them.
 
 Under the 'SUBSCRIPTIONS' section disable 'Announcements' and 'Apps, music, films and more'. This will help you get rid of marketing emails associated with the email addresses under the 'CONTACTABLE AT' section.
 
@@ -99,10 +99,10 @@ This is another controversial topic. Should you use Touch ID/Face ID for the sak
 
 Under the 'ALLOW ACCESS WHEN LOCKED' section you can fine tune things to your liking, ideally as few accessible features as possible.
 
-There is a rather interesting setting all the way at the bottom. If you or someone else fails to unlock your device after 10 tries, it will wipe completely. Now the implication should be that the time between you interacting with your device one time and another time should be less than an hour. This is because if someone were to fail to attempt to unlock your device 9 times, a delay between unlocking attempts will be added up, and with 9 tries this delay is an hour. Depending on how sensitive the data on your device is, you would want to take the appropriate choice.
+There is a rather interesting option all the way at the bottom. If you or someone else fails to unlock your device after 10 tries, it will wipe completely. Now the implication should be that the time between you interacting with your device one time and another time should be less than an hour. This is because if someone were to fail to attempt to unlock your device 9 times, a delay between unlocking attempts will be added up, and with 9 tries this delay is an hour. Depending on how sensitive the data on your device is, you would want to take the appropriate choice.
 
 #### 6. Emergency SOS
-Introduced in iOS 11, a feature in an event of an emergency where if you were to hold the lock button and one of the volume buttons long enough, emergency services will be called from your device. While this feature has saved numerous lives since its introduction it is important to know that this includes Medical ID, a feature you can enable if you wish to do so. Medical ID is a feature where someone can look at basic information such as name, weight, height, emergency contacts (you can curate them) etc. while your device is locked. This is intended for instances where a medical professional can quickly gain information about you on-site, should you be unable to communicate.
+Introduced in iOS 11, a feature in an event of an emergency, where if you were to hold the lock button and one of the volume buttons long enough, emergency services will be called from your device. While this feature has saved numerous lives since its introduction it is important to know that this includes Medical ID, a feature you can enable if you wish to do so. Medical ID is a feature where someone can look at basic information such as name, weight, height, emergency contacts (you can curate them) etc. while your device is locked. This is intended for instances where a medical professional can quickly gain information about you on-site, should you be unable to communicate.
 
 #### 7. Privacy
 ##### 7.1 Location Services
