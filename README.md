@@ -13,31 +13,31 @@ For more information on how Apple handles security and privacy, visit:
 ---
 
 ### Contents
-[1. Introduction](#1-introduction)
-[2. Apple ID](#2-apple-id)
-⋅⋅⋅ [2.1 Name, Phone Numbers, Email](#21-name-phone-numbers-email)
-⋅⋅⋅ [2.2 Password & Security](#22-password--security)
-⋅⋅⋅ [2.3 iCloud](#23-icloud)
-⋅⋅⋅ [2.4 iTunes & App Store](#24-itunes--app-store)
-[3. General](#3-general)
-⋅⋅⋅ [3.1 Software Update](#31-software-update)
-⋅⋅⋅ [3.2 AirDrop](#32-airdrop)
-⋅⋅⋅ [3.3 Accessibility](#33-accessibility)
-⋅⋅⋅⋅⋅⋅ [3.3.1 Face ID & Attention](#331-face-id--attention)
-[4. Siri & Search](#4-siri--search)
-[5. Touch ID/Face ID & Passcode](#5-touch-idface-id--passcode)
-[6. Emergency SOS](#6-emergency-sos)
-[7. Privacy](#7-privacy)
-⋅⋅⋅ [7.1 Location Services](#71-location-services)
-⋅⋅⋅⋅⋅⋅ [7.1.1 System Services](#711-system-services)
-⋅⋅⋅⋅⋅⋅⋅⋅⋅ [7.1.1.1 Significant Locations](#7111-significant-locations)
-⋅⋅⋅ [7.2 Analytics](#72-analytics)
-⋅⋅⋅ [7.3 Advertising](#73-advertising)
-[8. Phone](#8-phone)
-⋅⋅⋅ [8.1 Show My Caller ID](#81-show-my-caller-id)
-⋅⋅⋅ [8.2 SIM PIN](#82-sim-pin)
-[9. Safari](#9-safari)
-⋅⋅⋅ [9.1 Search Engine](#91-search-engine)
+1. Introduction  
+2. Apple ID  
+  2.1 Name, Phone Numbers, Email  
+  2.2 Password & Security  
+  2.3 iCloud  
+  2.4 iTunes & App Store  
+3. General  
+  3.1 Software Update  
+  3.2 AirDrop  
+  3.3 Accessibility  
+  ..3.3.1 Face ID & Attention  
+4. Siri & Search  
+5. Touch ID/Face ID & Passcode  
+6. Emergency SOS  
+7. Privacy  
+  7.1 Location Services  
+  ..7.1.1 System Services  
+  ....7.1.1.1 Significant Locations  
+  7.2 Analytics  
+  7.3 Advertising  
+8. Phone  
+  8.1 Show My Caller ID  
+  8.2 SIM PIN  
+9. Safari  
+  9.1 Search Engine  
 
 #### 1. Introduction
 Nowadays words like privacy and security have been getting more relevant as ever before. This means that taking additional steps on how your devices interact and handle data with third parties is very important.
