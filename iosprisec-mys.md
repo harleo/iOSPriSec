@@ -154,10 +154,10 @@ Jika anda ingin menggunakan enjin carian yang menghormati privasi anda, sila gun
 ---
 
 ## Tutup
-Tahniah, awak buat!
+Tahniah, inilah pengakhiran panduan ini!
 Ini akan menyimpulkan panduan ini tentang cara mengambil langkah-langkah yang diperlukan untuk meningkatkan keselamatan dan privasi peranti iOS anda.
 
-Jika anda ingin membantu keluarga atau rakan, kongsi panduan ini!
+Jika anda ingin membantu keluarga atau rakan-rakan anda, kongsikan panduan ini!
 
 [> Tweet It](http://twitter.com/share?text=Useful+tips+on+how+to+maximize+and+balance+security+and+privacy+on+iOS&url=https://github.com/harleo/iOSPriSec/blob/master/README.md)
 
