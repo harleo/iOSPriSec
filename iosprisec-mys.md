@@ -31,7 +31,7 @@ Untuk maklumat lanjut mengenai bagaimana Apple mengendalikan keselamatan dan pri
 ⋅⋅⋅ [7.1 Perkhidmatan Lokasi](#71-perkhidmatan-lokasi)  
 ⋅⋅⋅⋅⋅⋅ [7.1.1 Perkhidmatan Sistem](#711-perkhidmatan-sistem)  
 ⋅⋅⋅⋅⋅⋅⋅⋅⋅ [7.1.1.1 Lokasi Penting](#7111-lokasi-penting)  
-⋅⋅⋅ [7.2 Analis](#72-analis)  
+⋅⋅⋅ [7.2 Analisis](#72-analisis)  
 ⋅⋅⋅ [7.3 Pengiklanan](#73-pengiklanan)  
 [8. Telefon](#8-telefon)  
 ⋅⋅⋅ [8.1 Tunkukkan ID Pemanggil Saya](#81-tunjukkan-id-pemanggil-saya)  
