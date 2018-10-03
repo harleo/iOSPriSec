@@ -167,4 +167,4 @@ oleh [@_harleo](https://twitter.com/_harleo)
 
 _versi iOS pada masa tulisan: 11.2.6 (15D100)_
 
-_12th Mac 2018_
+_12 Mac 2018_
