@@ -135,6 +135,7 @@ Here you will be able to hide your phone number from being displayed on the rece
 
 ##### 8.2 SIM PIN
 If you do not already have a SIM PIN set, this would add an extra layer of security for your SIM card.
+Please note that in case your iPhone/iPad gets stolen with SIM PIN enabled, it will not connect to the cellular network if power cycled, thus 'Find My iPhone/iPad' will not work.
 
 #### 9. Safari
 This section will only apply to you if you actively use Safari as your iOS browser of choice. If you don't, you should start using Brave (see more here: [https://brave.com](https://brave.com)).
