@@ -1,6 +1,6 @@
 ![iOSPriSec](https://cdn.rawgit.com/harleo/assets-repo/5f922f40/iOSPriSec/iosprisec_github_repo_logo.svg)  
 
-📱 Nasihat berguna untuk memaksimumkan dan mengimbangkan pengaturan keselamatan dan privasi di dalam iOS
+📱 Nasihat untuk memaksimumkan dan mengimbangkan pengaturan keselamatan dan privasi di dalam iOS
 
 ## Preface
 
