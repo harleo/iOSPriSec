@@ -1,10 +1,10 @@
-! [iOSPriSec] (https://cdn.rawgit.com/harleo/assets-repo/5f922f40/iOSPriSec/iosprisec_github_repo_logo.svg)
+![iOSPriSec](https://cdn.rawgit.com/harleo/assets-repo/5f922f40/iOSPriSec/iosprisec_github_repo_logo.svg)  
 
-Tips Petua berguna tentang cara memaksimumkan dan mengimbangkan keselamatan dan privasi di iOS
+📱 Nasihat berguna untuk memaksimumkan dan mengimbangkan pengaturan keselamatan dan privasi di dalam iOS
 
 ## Preface
 
-Panduan ini akan memberi tumpuan kepada aspek keselamatan dan privasi platform IOS. Walaupun Apple mengambil perhatian besar terhadap aspek tersebut untuk kedua-duanya, peranti mereka dan pelanggannya, adalah penting untuk melalui langkah tambahan kerana Apple memberi anda sejumlah besar pilihan.
+Panduan ini akan memberi tumpuan kepada aspek keselamatan dan privasi di dalam platform IOS. Walaupun Apple mengambil perhatian besar terhadap aspek tersebut untuk kedua-duanya, peranti mereka dan pelanggannya, adalah penting untuk melalui langkah tambahan kerana Apple memberi anda banyak pilihan.
 
 Untuk maklumat lanjut mengenai bagaimana Apple mengendalikan keselamatan dan privasi, lawati:
 [https://www.apple.com/business/docs/iOS_Security_Guide.pdf](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
@@ -12,34 +12,34 @@ Untuk maklumat lanjut mengenai bagaimana Apple mengendalikan keselamatan dan pri
 
 ---
 
-### Kandungan
-[1. Pengenalan] (Pengenalan # 1)
-[2. ID Apple] (# 2-apple-id)
-⋅ ⋅ ⋅ [2.1 Nama, Nombor Telefon, E-mel] (# 21-nama-nombor telefon-e-mel)
-⋅⋅⋅ [2.2 Kata Laluan & Keselamatan] (# 22-kata laluan - keselamatan)
-⋅ ⋅ ⋅ [2.3 iCloud] (# 23-icloud)
-⋅⋅⋅ [2.4 iTunes & App Store] (# 24-iTunes - app-store)
-[3. Umum] (# 3-umum)
-⋅ ⋅ ⋅ [3.1 Kemas Kini Perisian] (# 31-kemas kini perisian)
-⋅ ⋅ ⋅ [3.2 AirDrop] (# 32-airdrop)
-⋅ ⋅ ⋅ [3.3 Kebolehcapaian] (# 33-aksesibilitas)
-⋅ ⋅ ⋅ ⋅ [3.3.1 ID & Perhatian Wajah] (# 331-face-id - perhatian)
-[4. Siri & Carian] (# 4-siri - carian)
-[5. ID / ID Wajah ID & Kod Laluan] (# 5-touch-idface-id - kod laluan)
-[6. Kecemasan SOS] (# 6-emergency-sos)
-[7. Privasi] (# 7-privasi)
-⋅ ⋅ ⋅ [7.1 Perkhidmatan Lokasi] (# 71-perkhidmatan lokasi)
-⋅ ⋅ ⋅ ⋅ [7.1.1 Perkhidmatan Sistem] (# 711-sistem-perkhidmatan)
-⋅ S ⋅ ⋅ ⋅ ⋅ [7.1.1.1 Lokasi Penting] (# 7111-signifikan-lokasi)
-⋅ ⋅ [7.2 Analis] (# 72-analytics)
-⋅ ⋅ [7.3 Pengiklanan] (# 73-pengiklanan)
-[8. Telefon] (# 8-telefon)
-⋅ ⋅ ⋅ [8.1 Tunjukkan ID Pemanggil saya] (# 81-show-my-caller-id)
-⋅⋅⋅ [8.2 SIM PIN] (# 82-sim-pin)
-[9. Safari] (# 9-safari)
-⋅ ⋅ ⋅ [9.1 Enjin Carian] (# 91-mesin carian)
+### Contents
+[1. Introduksi](#1-introduksi)  
+[2. Apple ID](#2-apple-id)  
+⋅⋅⋅ [2.1 Name, Nombor Telefon, E-mel](#21-nama-nombor-telefon-e-mel)  
+⋅⋅⋅ [2.2 Kata Laluan & Sekuriti](#22-kata-laluan-keselamatan)  
+⋅⋅⋅ [2.3 iCloud](#23-icloud)  
+⋅⋅⋅ [2.4 iTunes & App Store](#24-itunes--app-store)  
+[3. Umum](#3-umum)  
+⋅⋅⋅ [3.1 Kemas Kini Perisian](#31-kemas-kini-perisian)  
+⋅⋅⋅ [3.2 AirDrop](#32-airdrop)  
+⋅⋅⋅ [3.3 Kebolehcapaian](#33-kebolehcapaian)  
+⋅⋅⋅⋅⋅⋅ [3.3.1 Face ID & Perhatian](#331-face-id--perhatian)  
+[4. Siri & Carian](#4-siri--carian)  
+[5. Touch ID/Face ID & Kod Laluan](#5-touch-idface-id--kod-laluan)  
+[6. Kecemasan SOS](#6-kecemasan-sos)  
+[7. Privasi](#7-privasi)  
+⋅⋅⋅ [7.1 Perkhidmatan Lokasi](#71-perkhidmatan-lokasi)  
+⋅⋅⋅⋅⋅⋅ [7.1.1 Perkhidmatan Sistem](#711-perkhidmatan-sistem)  
+⋅⋅⋅⋅⋅⋅⋅⋅⋅ [7.1.1.1 Lokasi Penting](#7111-lokasi-penting)  
+⋅⋅⋅ [7.2 Analis](#72-analis)  
+⋅⋅⋅ [7.3 Pengiklanan](#73-pengiklanan)  
+[8. Telefon](#8-telefon)  
+⋅⋅⋅ [8.1 Tunkukkan ID Pemanggil Saya](#81-tunjukkan-id-pemanggil-saya)  
+⋅⋅⋅ [8.2 SIM PIN](#82-sim-pin)  
+[9. Safari](#9-safari)  
+⋅⋅⋅ [9.1 Enjin Carian](#91-enjin-carian)
 
-#### 1. Pengenalan
+#### 1. Introduksi
 Pada masa kini, kata-kata seperti privasi dan keselamatan telah semakin relevan seperti sebelum ini. Ini bermakna mengambil langkah tambahan mengenai bagaimana peranti anda berinteraksi dan mengendalikan data dengan pihak ketiga adalah sangat penting.
 
 Peranti dan pihak ketiga yang anda gunakan, menjana jejak digital yang besar setiap hari, yang mungkin anda tidak menyedari. Oleh kerana data itu milik anda, saya percaya ia sepatutnya menjadi milik anda.
