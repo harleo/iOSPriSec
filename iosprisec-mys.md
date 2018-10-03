@@ -159,12 +159,12 @@ Ini akan menyimpulkan panduan ini tentang cara mengambil langkah-langkah yang di
 
 Jika anda ingin membantu keluarga atau rakan-rakan anda, kongsikan panduan ini!
 
-[> Tweet It](http://twitter.com/share?text=Useful+tips+on+how+to+maximize+and+balance+security+and+privacy+on+iOS&url=https://github.com/harleo/iOSPriSec/blob/master/README.md)
+[> Tweet](http://twitter.com/share?text=Useful+tips+on+how+to+maximize+and+balance+security+and+privacy+on+iOS&url=https://github.com/harleo/iOSPriSec/blob/master/README.md)
 
 ---
 
-by [@_harleo](https://twitter.com/_harleo)
+oleh [@_harleo](https://twitter.com/_harleo)
 
-_iOS version as of writeup: 11.2.6 (15D100)_
+_versi iOS pada masa tulisan: 11.2.6 (15D100)_
 
-_12th of March 2018_
+_12th Mac 2018_
