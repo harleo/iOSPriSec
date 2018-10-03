@@ -7,7 +7,7 @@
 Panduan ini akan memberi tumpuan kepada aspek keselamatan dan privasi di dalam platform IOS. Walaupun Apple mengambil perhatian besar terhadap aspek tersebut untuk kedua-duanya, peranti mereka dan pelanggannya, adalah penting untuk melalui langkah tambahan kerana Apple memberi anda banyak pilihan.
 
 Untuk maklumat lanjut mengenai bagaimana Apple mengendalikan keselamatan dan privasi, lawati:
-[https://www.apple.com/business/docs/iOS_Security_Guide.pdf](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
+[https://www.apple.com/business/docs/iOS_Security_Guide.pdf](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)  
 [https://www.apple.com/lae/privacy/approach-to-privacy/](https://www.apple.com/lae/privacy/approach-to-privacy/)
 
 ---
@@ -16,7 +16,7 @@ Untuk maklumat lanjut mengenai bagaimana Apple mengendalikan keselamatan dan pri
 [1. Introduksi](#1-introduksi)  
 [2. Apple ID](#2-apple-id)  
 ⋅⋅⋅ [2.1 Name, Nombor Telefon, E-mel](#21-nama-nombor-telefon-e-mel)  
-⋅⋅⋅ [2.2 Kata Laluan & Sekuriti](#22-kata-laluan-keselamatan)  
+⋅⋅⋅ [2.2 Kata Laluan & Sekuriti](#22-kata-laluan--sekuriti)  
 ⋅⋅⋅ [2.3 iCloud](#23-icloud)  
 ⋅⋅⋅ [2.4 iTunes & App Store](#24-itunes--app-store)  
 [3. Umum](#3-umum)  
@@ -31,11 +31,11 @@ Untuk maklumat lanjut mengenai bagaimana Apple mengendalikan keselamatan dan pri
 ⋅⋅⋅ [7.1 Perkhidmatan Lokasi](#71-perkhidmatan-lokasi)  
 ⋅⋅⋅⋅⋅⋅ [7.1.1 Perkhidmatan Sistem](#711-perkhidmatan-sistem)  
 ⋅⋅⋅⋅⋅⋅⋅⋅⋅ [7.1.1.1 Lokasi Penting](#7111-lokasi-penting)  
-⋅⋅⋅ [7.2 Analisis](#72-analisis)  
+⋅⋅⋅ [7.2 Analitis](#72-analitis)  
 ⋅⋅⋅ [7.3 Pengiklanan](#73-pengiklanan)  
 [8. Telefon](#8-telefon)  
 ⋅⋅⋅ [8.1 Tunkukkan ID Pemanggil Saya](#81-tunjukkan-id-pemanggil-saya)  
-⋅⋅⋅ [8.2 SIM PIN](#82-sim-pin)  
+⋅⋅⋅ [8.2 PIN SIM](#82-pin-sim)  
 [9. Safari](#9-safari)  
 ⋅⋅⋅ [9.1 Enjin Carian](#91-enjin-carian)
 
@@ -56,21 +56,22 @@ Memilih sama ada untuk meletakkan nama sebenar atau palsu anda di sini adalah to
 
 Di bawah bahagian 'SUBSCRIPTIONS' lumpuhkan 'Pengumuman' dan 'Aplikasi, muzik, filem dan banyak lagi'. Ini akan membantu anda menyingkirkan e-mel pemasaran yang berkaitan dengan alamat e-mel di bawah bahagian 'CONTACTABLE AT'.
 
-##### 2.2 Kata Laluan & Keselamatan
+##### 2.2 Kata Laluan & Sekuriti
 Sekarang, saya ingin mendidik anda tentang betapa pentingnya menggunakan kata laluan yang kuat untuk Apple ID anda (dan perkhidmatan apa pun sebenarnya), jadi, jika anda menggunakan kata laluan yang lemah, ubahlah ia menjadi sesuatu yang lebih rumit. Bergantung kepada perkhidmatan yang anda gunakan, mereka mungkin menyekat anda untuk keperluan kata laluan mereka. Ini tidak sesuai kerana perkhidmatan yang berbeza mempunyai keperluan kata laluan yang berbeza untuk berfungsi dengan backend mereka.
 
 Sekiranya anda tidak pasti bagaimana untuk mencipta kata laluan yang baik, baca beberapa perkara ini
 pautan (yang pertama adalah yang paling relevan kerana ia adalah Apple):
-[https://support.apple.com/en-gb/HT201303](https://support.apple.com/en-gb/HT201303)
-[https://support.microsoft.com/en-us/help/4026406/microsoft-account-create-a-strong-password](https://support.microsoft.com/en-us/help/4026406/ microsoft-account-create-a-strong-password)
-[https://support.google.com/accounts/answer/32040?hl=en](https://support.google.com/accounts/answer/32040?hl=en)
+[https://support.apple.com/en-gb/HT201303](https://support.apple.com/en-gb/HT201303)  
+[https://support.microsoft.com/en-us/help/4026406/microsoft-account-create-a-strong-password](https://support.microsoft.com/en-us/help/4026406/microsoft-account-create-a-strong-password)  
+[https://support.google.com/accounts/answer/32040?hl=en](https://support.google.com/accounts/answer/32040?hl=en)  
 
-Bergerak pada anda pasti akan membolehkan 'Pengesahan Dua Faktor'. Jika anda log masuk ke peranti Apple baru atau perkhidmatan dalam talian mereka seperti iCloud dan menggunakan ID Apple yang sama, ia akan meminta kod untuk salah satu daripada peranti yang dipercayai untuk mengesahkan identiti anda.
+Pastikan anda membolehkan 'Pengesahan Dua Faktor'. Jika anda log masuk ke peranti Apple baru atau perkhidmatan dalam talian mereka seperti iCloud dan menggunakan ID Apple yang sama, ia akan meminta kod untuk salah satu daripada peranti yang dipercayai untuk mengesahkan identiti anda.
 
 ##### 2.3 iCloud
-Perkhidmatan iCloud adalah satu cara untuk anda menyimpan perkara seperti foto dan data lain dari aplikasi untuk mengimbangi penyimpanan atau data sandaran ke awan. Bergantung kepada sama ada anda mahukan data tersebut pada peranti anda disegerakkan dengan peranti Apple lain yang anda miliki, anda boleh mengambil tetapan yang sesuai. Sekiranya anda ingin mengambil sedikit perkara lagi, dan anda ingin tahu di mana dan bagaimana data itu disimpan, anda boleh membaca tentangnya di dalam 'Panduan Keselamatan-Kertas Putih iOS' pada halaman 53 dan seterusnya: [https: // www.apple.com/business/docs/iOS_Security_Guide.pdf](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
+Perkhidmatan iCloud adalah satu cara untuk anda menyimpan perkara seperti foto dan data lain dari aplikasi untuk mengimbangi penyimpanan atau data sandaran ke awan. Bergantung kepada sama ada anda mahukan data tersebut pada peranti anda disegerakkan dengan peranti Apple lain yang anda miliki, anda boleh mengambil tetapan yang sesuai. Sekiranya anda ingin mengambil sedikit perkara lagi, dan anda ingin tahu di mana dan bagaimana data itu disimpan, anda boleh membaca tentangnya di dalam 'Panduan Keselamatan-Kertas Putih iOS' pada halaman 53 dan seterusnya: [https://www.apple.com/business/docs/iOS_Security_Guide.pdf](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
 
-Sesuatu yang penting untuk diperhatikan adalah bahawa Apple baru-baru ini mengumumkan bahawa ia sebahagiannya menyimpan data iCloud di datacenters Google, yang tidak mengejutkan, kerana ia juga telah menyimpan data pada perkhidmatan lain seperti AWS, perkhidmatan awan Amazon. Anda boleh membaca lebih lanjut mengenainya di sini: [https://arstechnica.com/gadgets/2018/02/your-apple-icloud-data-is-now-stored-on-google-servers-surprised/](https:/ /arstechnica.com/gadgets/2018/02/your-apple-icloud-data-is-now-stored-on-google-servers-surprised/)
+Sesuatu yang penting untuk diperhatikan adalah bahawa Apple baru-baru ini mengumumkan bahawa ia sebahagiannya menyimpan data iCloud di datacenters Google, yang tidak mengejutkan, kerana ia juga telah menyimpan data pada perkhidmatan lain seperti AWS, perkhidmatan awan Amazon. Anda boleh membaca lebih lanjut mengenainya di sini: 
+[https://arstechnica.com/gadgets/2018/02/your-apple-icloud-data-is-now-stored-on-google-servers-surprised/](https://arstechnica.com/gadgets/2018/02/your-apple-icloud-data-is-now-stored-on-google-servers-surprised/)
 
 Tetapan menarik yang lebih menarik ialah ciri 'Find My iPhone' / 'Find My iPad'. Jika peranti anda berlaku untuk dicuri, anda akan dapat melakukan tindakan tertentu dari laman web iCloud, seperti mengelap, memainkan bunyi atau meletakkannya dalam mod yang hilang. Selain itu, anda juga akan dapat melihat lokasi peranti.
 
@@ -88,14 +89,14 @@ Ini harus menjadi perkara yang jelas untuk dilakukan. Sila simpan peranti anda s
 AirDrop harus dimatikan dengan ideal, atau menghidupkan hanya untuk kenalan. Ini akan menghalang orang lain melihat peranti anda apabila berdekatan dengannya (walaupun ini juga akan terjadi dengan Bluetooth dihidupkan).
 
 ##### 3.3 Kebolehcapaian
-##### 3.3.1 ID & Perhatian Wajah
+##### 3.3.1 Face ID & Perhatian
 ID Face ID hanya tersedia di iPhone X. Jika anda menggunakan ID Wajah di tempat pertama, aktifkan tetapan 'Memerlukan Perhatian untuk ID Wajah' yang akan memastikan bahawa anda secara aktif melihat peranti itu, dengan mata anda terbuka, sebelum cuba membuka kunci.
 
 #### 4. Siri & Carian
 Bergantung kepada jika anda berhasrat untuk menggunakan Siri, ada perkara-perkara tertentu yang perlu diperhatikan. Contohnya 'Allow Siri Apabila Dikunci' akan membuat Siri diakses oleh orang lain semasa anda tidak berada di sekelilingnya. Siri akan melaksanakan tugas tertentu, seperti menghantar mesej bagi pihak anda, membuat entri kalendar atau tetapkan masa (lebih lanjut mengenai ini dalam bahagian 5.).
 
-#### 5. Sentuh ID / ID Wajah & Kod Laluan
-Ini satu lagi topik kontroversi. Sekiranya anda menggunakan ID ID / Face Touch untuk kemudahan atau kod laluan alfanumerik yang kuat? Sekali lagi, ini terpulang kepada anda. Tetapi ambil perhatian bahawa sekiranya berlaku tindakan ganas terhadap anda, lebih mudah untuk masuk ke dalam peranti anda dengan sentuhan mudah atau buka kunci daripada menyediakan kod laluan. Juga sekiranya anda melakukan perjalanan ke A.S., kes telah menunjukkan bahawa pegawai peronda sempadan dibenarkan menuntut bahawa anda membuka kunci peranti anda dengan ID Sentuhan tetapi tidak melalui kod laluan. Sekiranya anda ingin membaca lebih lanjut mengenai topik ini, inilah panduan mendalam yang sangat baik oleh Yayasan Frontier Elektronik: [https://www.eff.org/wp/digital-privacy-us-border-2017](https: //www.eff.org/wp/digital-privacy-us-border-2017).
+#### 5. Touch ID/Face ID & Kod Laluan
+Ini satu lagi topik kontroversi. Sekiranya anda menggunakan ID ID / Face Touch untuk kemudahan atau kod laluan alfanumerik yang kuat? Sekali lagi, ini terpulang kepada anda. Tetapi ambil perhatian bahawa sekiranya berlaku tindakan ganas terhadap anda, lebih mudah untuk masuk ke dalam peranti anda dengan sentuhan mudah atau buka kunci daripada menyediakan kod laluan. Juga sekiranya anda melakukan perjalanan ke A.S., kes telah menunjukkan bahawa pegawai peronda sempadan dibenarkan menuntut bahawa anda membuka kunci peranti anda dengan ID Sentuhan tetapi tidak melalui kod laluan. Sekiranya anda ingin membaca lebih lanjut mengenai topik ini, inilah panduan mendalam yang sangat baik oleh Yayasan Frontier Elektronik: [https://www.eff.org/wp/digital-privacy-us-border-2017](https://www.eff.org/wp/digital-privacy-us-border-2017).
 
 Di bawah seksyen 'AKAN MENDAPATKAN AKSES KELOMPOK', anda boleh menggabungkan perkara dengan keinginan anda, idealnya dengan beberapa ciri yang boleh diakses.
 
@@ -118,7 +119,7 @@ Jalan di bahagian bawah adalah tetapan yang membolehkan anda melihat ikon dalam 
 Jika anda ingin membaca lebih lanjut tentang perkhidmatan lokasi, lawati:
 [https://support.apple.com/en-us/HT207056](https://support.apple.com/en-us/HT207056)
 
-##### 7.1.1.1 Lokasi yang Ketara
+##### 7.1.1.1 Lokasi Penting
 Bahagian ini akan membolehkan peranti anda mengingati tempat penting berdasarkan lokasi anda untuk memberi anda maklumat berasaskan lokasi. Anda mahu mematikan ini.
 
 ##### 7.2 Analitis
@@ -137,7 +138,7 @@ Di sini anda akan dapat menyembunyikan nombor telefon anda daripada dipaparkan p
 Sekiranya anda belum mempunyai set PIN SIM, ini akan menambah lapisan keselamatan tambahan untuk kad SIM anda.
 
 #### 9. Safari
-Bahagian ini hanya akan terpakai kepada anda jika anda aktif menggunakan Safari sebagai pilihan pelayar iOS anda. Sekiranya anda tidak, anda perlu mula menggunakan Berani (lihat lebih lanjut di sini: [https://brave.com] (https://brave.com)).
+Bahagian ini hanya akan terpakai kepada anda jika anda aktif menggunakan Safari sebagai pilihan pelayar iOS anda. Sekiranya anda tidak, anda perlu mula menggunakan Berani (lihat lebih lanjut di sini: [https://brave.com](https://brave.com)).
 
 Lumpuhkan 'Cadangan Engine Search', 'Cadangan Safari', dan 'Preload Top Hit'. Tetapan tersebut akan disegerakkan (disulitkan dari hujung ke hujung) dengan peranti Apple anda yang lain, atau tanpa nama dan dihantar ke Apple untuk dianalisis. Lihat pautan yang diserlahkan di bahagian itu, jika anda mahu membaca lebih lanjut.
 
@@ -158,12 +159,12 @@ Ini akan menyimpulkan panduan ini tentang cara mengambil langkah-langkah yang di
 
 Jika anda ingin membantu keluarga atau rakan, kongsi panduan ini!
 
-[> Tweet It] (http://twitter.com/share?text=Useful+tips+on+how+to+maximize+and+balance+security+and+privacy+on+iOS&url=https://github. com / harleo / iOSPriSec / blob / master / README.md)
+[> Tweet It](http://twitter.com/share?text=Useful+tips+on+how+to+maximize+and+balance+security+and+privacy+on+iOS&url=https://github.com/harleo/iOSPriSec/blob/master/README.md)
 
 ---
 
-oleh [@_harleo] (https://twitter.com/_harleo)
+by [@_harleo](https://twitter.com/_harleo)
 
-Versi _iOS sebagai penulisan: 11.2.6 (15D100) _
+_iOS version as of writeup: 11.2.6 (15D100)_
 
-Mac 12, 2018_
+_12th of March 2018_
