@@ -52,14 +52,14 @@ So I decided to do a short writeup to help you take the necessary steps on iOS (
 When opening the settings app on iOS, you should see your name associated with the Apple ID of your device at the very top of the list. Tap on it and you should also see the email associated with it, as well as a wide variety of options regarding your account.
 
 ##### 2.1 Name, Phone Numbers, Email
-Choosing whether to put your real or fake name here is a controversial topic in of itself. If you happen to use any additional Apple services connected to this Apple ID, your name will obviously be associated with them.
+Choosing whether to put your real or fake name here is a controversial topic in and of itself. If you happen to use any additional Apple services connected to this Apple ID, your name will obviously be associated with them.
 
 Under the 'SUBSCRIPTIONS' section disable 'Announcements' and 'Apps, music, films and more'. This will help you get rid of marketing emails associated with the email addresses under the 'CONTACTABLE AT' section.
 
 ##### 2.2 Password & Security
 Now, I want to educate you on how important it is to use a strong password for your Apple ID (and any service really), so please, if you use a weak password change it to something more complex. Depending on which services you are using, those might restrict you to their password requirements. This is not ideal because different services have different password requirements in order to function with their backend.
 
-If you are unsure on how to create a good password, do read over some of those
+If you are unsure on how to create a good password, do read over some of these
 links (the first one being most relevant because it's Apple's):
 [https://support.apple.com/en-gb/HT201303](https://support.apple.com/en-gb/HT201303)  
 [https://support.microsoft.com/en-us/help/4026406/microsoft-account-create-a-strong-password](https://support.microsoft.com/en-us/help/4026406/microsoft-account-create-a-strong-password)  
@@ -85,7 +85,7 @@ This section mostly contains things you can set to your liking, depending on you
 This should be an obvious thing to do. Please keep your devices up to date. They not only provide new features, but most importantly security updates.
 
 ##### 3.2 AirDrop
-AirDrop should be turned off ideally, or only for contacts. This will prevent other people to see your device in certain proximity (although this will also happen with Bluetooth turned on).
+AirDrop should be turned off ideally, or turned on only for contacts. This will prevent other people seeing your device when in proximity to it (although this will also happen with Bluetooth turned on).
 
 ##### 3.3 Accessibility
 ##### 3.3.1 Face ID & Attention
@@ -139,11 +139,11 @@ If you do not already have a SIM PIN set, this would add an extra layer of secur
 #### 9. Safari
 This section will only apply to you if you actively use Safari as your iOS browser of choice. If you don't, you should start using Brave (see more here: [https://brave.com](https://brave.com)).
 
-Disable 'Search Engine Suggestions', 'Safari Suggestions', and 'Preload Top Hit'. Those settings will be either synced (end-to-end encrypted) with your other Apple devices, or anonymized and send to Apple for analysis. See the highlighted link in that section, if you want to read more.
+Disable 'Search Engine Suggestions', 'Safari Suggestions', and 'Preload Top Hit'. Those settings will be either synced (end-to-end encrypted) with your other Apple devices, or anonymized and sent to Apple for analysis. See the highlighted link in that section, if you want to read more.
 
 Enable 'Block Pop-ups'.
 
-Under section 'PRIVACY & SECURITY' enable 'Prevent Cross-Site Tracking', 'Block All Cookies', 'Ask Websites Not To Track Me' and 'Fraudulent Website Warning'. Note that blocking cookies might restrict some features on websites. Continuing disable 'Camera & Microphone Access' and 'Check for Apple Pay'.
+Under section 'PRIVACY & SECURITY' enable 'Prevent Cross-Site Tracking', 'Block All Cookies', 'Ask Websites Not To Track Me' and 'Fraudulent Website Warning'. Note that blocking cookies might restrict some features on websites. Continue disabling 'Camera & Microphone Access' and 'Check for Apple Pay'.
 
 Also, please do yourself a favour and tap on 'Clear History and Website Data' once in a while (make sure you don't have any important tabs open, those will be deleted).
 
