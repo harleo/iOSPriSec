@@ -40,7 +40,7 @@ For more information on how Apple handles security and privacy, visit:
 ⋅⋅⋅ [9.1 Search Engine](#91-search-engine)
 
 #### 1. Introduction
-Nowadays words like privacy and security have been getting more relevant as ever before. This means that taking additional steps on how your devices interact and handle data with third parties is very important.
+Nowadays words like privacy and security have been getting more relevant than ever before. This means that taking additional steps on how your devices interact and handle data with third parties is very important.
 
 The devices—and third parties—you use, generate a large digital footprint of you every day, which you might be unaware of. Since that data belongs to you, I believe it should be yours.
 
@@ -52,7 +52,7 @@ So I decided to do a short writeup to help you take the necessary steps on iOS (
 When opening the settings app on iOS, you should see your name associated with the Apple ID of your device at the very top of the list. Tap on it and you should also see the email associated with it, as well as a wide variety of options regarding your account.
 
 ##### 2.1 Name, Phone Numbers, Email
-Choosing whether to put your real or fake name here is a controversial topic in of itself. If you happen to use any additional Apple services connected to this Apple ID, your name will obviously be associated with them.
+Choosing whether to put your real or fake name here is a controversial topic in and of itself. If you happen to use any additional Apple services connected to this Apple ID, your name will obviously be associated with them.
 
 Under the 'SUBSCRIPTIONS' section disable 'Announcements' and 'Apps, music, films and more'. This will help you get rid of marketing emails associated with the email addresses under the 'CONTACTABLE AT' section.
 
@@ -68,7 +68,7 @@ links (the first one being most relevant because it's Apple's):
 Moving on you should definitely enable 'Two-Factor Authentication'. If you log into a new Apple device or their online services such as iCloud and use the same Apple ID, it will ask you for a code from one of your trusted devices in order to validate your identity.
 
 ##### 2.3 iCloud
-The iCloud service is a way for you to store things like photos and other data from apps in order to offload storage or backup data to the cloud. Depending on whether you want that data on your device to be synced with other Apple devices you own, you can take the appropriate settings. If you want to take things a little bit further, and you want to know where and how that data gets stored, you can read about it in the 'iOS Security Guide—White Paper' on page 53 onwards here: [https://www.apple.com/business/docs/iOS_Security_Guide.pdf](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
+The iCloud service is a way for you to store things like photos and other data from apps in order to offload storage or backup data to the cloud. Depending on whether or not you want that data on your device to be synced with other Apple devices you own, you can make the appropriate settings. If you want to take things a little bit further, and you want to know where and how that data gets stored, you can read about it in the 'iOS Security Guide—White Paper' on page 53 onwards here: [https://www.apple.com/business/docs/iOS_Security_Guide.pdf](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
 
 Something important to note is that Apple recently announced that it is partly storing iCloud data in Google datacenters, which isn't a surprise, because it has also been storing data on other services like AWS, Amazon's cloud service. You can read more about it here: [https://arstechnica.com/gadgets/2018/02/your-apple-icloud-data-is-now-stored-on-google-servers-surprised/](https://arstechnica.com/gadgets/2018/02/your-apple-icloud-data-is-now-stored-on-google-servers-surprised/)
 
@@ -113,7 +113,7 @@ Disable 'Location-Based Alerts' (else Apple might give you app recommendations b
 
 In the section 'PRODUCT IMPROVEMENT' disable all four settings, because those will continuously use your location data in order to improve things like Apple Maps traffic data.
 
-Way at the bottom is a setting you can enable in order for you to see an icon in your statusbar, whenever a service requests your location. This does just that, it's just a piece of interesting information for you to see.
+Way at the bottom is a setting you can enable in order for you to see an icon in your status bar, whenever a service requests your location. This does just that, it's just a piece of interesting information for you to see.
 
 If you want to read more about location services, visit:
 [https://support.apple.com/en-us/HT207056](https://support.apple.com/en-us/HT207056)
@@ -139,7 +139,7 @@ If you do not already have a SIM PIN set, this would add an extra layer of secur
 #### 9. Safari
 This section will only apply to you if you actively use Safari as your iOS browser of choice. If you don't, you should start using Brave (see more here: [https://brave.com](https://brave.com)).
 
-Disable 'Search Engine Suggestions', 'Safari Suggestions', and 'Preload Top Hit'. Those settings will be either synced (end-to-end encrypted) with your other Apple devices, or anonymized and send to Apple for analysis. See the highlighted link in that section, if you want to read more.
+Disable 'Search Engine Suggestions', 'Safari Suggestions', and 'Preload Top Hit'. Those settings will be either synced (end-to-end encrypted) with your other Apple devices, or anonymized and sent to Apple for analysis. See the highlighted link in that section, if you want to read more.
 
 Enable 'Block Pop-ups'.
 
