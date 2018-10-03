@@ -46,7 +46,7 @@ The devices—and third parties—you use, generate a large digital footprint of
 
 Being naturally curious I've been tweaking settings on essentially every device I own. While I've been doing this for years for family and friends, I was under the assumption that everybody else was doing this. But I was wrong. The problem that I've been observing is that most of the people don't even give a second thought about going into the settings, they just want to use the device. What is shocking, is that even people in computer science related fields are subject to not tweaking settings while they should be doing it.
 
-So I decided to do a short writeup to help you take the necessary steps on iOS (as much as you can do with the options that are provided).
+So I decided to do a short write-up to help you take the necessary steps on iOS (as much as you can do with the options that are provided).
 
 #### 2. Apple ID
 When opening the settings app on iOS, you should see your name associated with the Apple ID of your device at the very top of the list. Tap on it and you should also see the email associated with it, as well as a wide variety of options regarding your account.
@@ -145,7 +145,7 @@ Enable 'Block Pop-ups'.
 
 Under section 'PRIVACY & SECURITY' enable 'Prevent Cross-Site Tracking', 'Block All Cookies', 'Ask Websites Not To Track Me' and 'Fraudulent Website Warning'. Note that blocking cookies might restrict some features on websites. Continuing disable 'Camera & Microphone Access' and 'Check for Apple Pay'.
 
-Also, please do yourself a favour and tap on 'Clear History and Website Data' once in a while (make sure you don't have any important tabs open, those will be deleted).
+Also, please do yourself a favor and tap on 'Clear History and Website Data' once in a while (make sure you don't have any important tabs open, those will be deleted).
 
 ##### 9.1 Search Engine
 If you wish to use a search engine that respects your privacy, please use DuckDuckGo as the default. DuckDuckGo will even allow you to proxy your search request by adding '!g' in front of your query to Google, in order to get Google's search result. For more information on why you should use it, visit: [https://duckduckgo.com/privacy](https://duckduckgo.com/privacy)
